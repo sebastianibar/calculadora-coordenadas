@@ -51,7 +51,7 @@ java calculadoraFisica
 ### Ejemplo: distancia entre dos puntos en SCR
 Para los puntos (1, 2, 3) y (3, 4, 2) la distancia es 3.00.
 
-![Cálculo de distancia en SCR](resultado.png)
+![Cálculo de distancia en SCR](resultados.png)
 
 ## Desarrollado por
 
