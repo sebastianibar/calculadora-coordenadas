@@ -11,7 +11,7 @@ Calculadora de consola en Java que convierte puntos entre sistemas de coordenada
 ## Estructura
 
 ```
-calculadoraFisica.java   # Programa completo (menús, conversiones y distancias)
+calculadoraFisica.java (menús, conversiones y distancias)
 README.md
 ```
 
@@ -40,19 +40,18 @@ java calculadoraFisica
 - Validación de entradas no numéricas (el programa no se cierra)
 - Ángulos introducidos en grados y resultados con 2 decimales
 
-## Ejemplo de uso
+## Capturas
 
-```
-Distancia entre dos puntos en SCR
-Introduzca el valor de X1: 12
-Introduzca el valor de Y1: 23
-Introduzca el valor de Z1: 45
+### Menú principal
+![Menú principal](menu.png)
 
-Introduzca el valor de X2: 21
-Introduzca el valor de Y2: 23
-Introduzca el valor de Z2: 44
-La distancia entre los puntos es:  9.06
-```
+### Menú de distancias
+![Menú de distancias](distancias.png)
+
+### Ejemplo: distancia entre dos puntos en SCR
+Para los puntos (1, 2, 3) y (3, 4, 2) la distancia es 3.00.
+
+![Cálculo de distancia en SCR](resultado.png)
 
 ## Desarrollado por
 
